@@ -1,6 +1,3 @@
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/bXeDmMz8XA15cpujG8aTaNPR/shoaibbhimani/redux-create-react-app-starter'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/bXeDmMz8XA15cpujG8aTaNPR/shoaibbhimani/redux-create-react-app-starter.svg' />
-</a>
 
 
 Minimal Starter Kit for Create React App CLI
